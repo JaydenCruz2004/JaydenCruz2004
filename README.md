@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayden Cruz</h1>
-<h3 align="center">A computer science student at Belmont University</h3>
+<h3 align="center">A Computer Science and Data Science Scholar @ Belmont University</h3>
 
 - 📫 How to reach me: **jaydencruz824@gmail.com**
 
