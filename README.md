@@ -10,3 +10,6 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/jaydencruz)
 
+[![Jayden’s github stats](https://github-readme-stats.vercel.app/api?username=JaydenCruz2004)](https://github.com/JaydenCruz2004)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenCruz2004&layout=compact)](https://github.com/JaydenCruz2004)
+
