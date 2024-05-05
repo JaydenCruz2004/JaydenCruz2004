@@ -2,7 +2,6 @@
 <h3 align="center">A Computer Science and Data Science Scholar @ Belmont University</h3>
 
 - 📫 How to reach me: **jaydencruz824@gmail.com**
-- <a href=”https://www.linkedin.com/in/jaydencruz/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
