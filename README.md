@@ -2,6 +2,7 @@
 <h3 align="center">Computer Science & Data Science Scholar @ Belmont University.</h3>
 
 - 📫 Feel free to reach out to me! My personal email is **jaydencruz.cs@gmail.com**
+- 🔭 I’m currently working with the Boys and Girls Club of Middle TN as a Computer Science Intern.
 - 🖥️ Check out my personal website: https://jaydencruz2004.github.io
 
 
