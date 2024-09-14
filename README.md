@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Jayden Cruz</h1>
 <h3 align="center">Computer Science & Data Science Scholar @ Belmont University.</h3>
 
-- 📫 Feel free to reach out to me! My personal email is **jaydencruz.cs@gmail.com**
+- 🖥️ Check out my personal website: [jaydencruz.cs] (https://jaydencruz2004.github.io)
 - 🔭 I’m currently working with the **Boys and Girls Club of Middle TN** as a **Computer Science Intern**.
-- 🖥️ Check out my personal website: https://jaydencruz2004.github.io
+- - 📫 How to reach me: **jaydencruz.cs@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
