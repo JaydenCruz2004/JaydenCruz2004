@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science & Data Science Scholar @ Belmont University.</h3>
 
 - 🖥 Check out my personal website: [jaydencruz.cs](https://jaydencruz2004.github.io)!
-- 🔭 I’m currently working with the **Boys and Girls Club of Middle TN** as a **Computer Science Intern**.
+- 🔭 I’m currently working with the **Boys and Girls Club of Middle TN** as a **Software Development Intern**.
 - 📫 How to reach me: **jaydencruz.cs@gmail.com**
 
 
