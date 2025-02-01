@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Jayden Cruz</h1>
+<h1 align="center">Hey 👋, I'm Jayden Cruz</h1>
 <h3 align="center">Computer Science & Data Science Scholar @ Belmont University.</h3>
 
 - 🖥 Check out my personal website: [jaydencruz.cs](https://jaydencruz2004.github.io)!
