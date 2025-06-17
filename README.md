@@ -3,7 +3,7 @@
 
 - 🖥 Check out my personal website: [jaydencruz.cs](https://jaydencruz2004.github.io)!
   
-- 🔭  **SWE Intern** @ **AB**.
+- 🔭  Currently a **SWE Intern** @ **AB**.
   
 - 📫 How to reach me: **jaydencruz.cs@gmail.com**
   
