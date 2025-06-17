@@ -3,7 +3,7 @@
 
 - 🖥 Check out my personal website: [jaydencruz.cs](https://jaydencruz2004.github.io)!
   
-- 🔭 I’m currently working at **Alliance Bernstein** as a **Infrastructure Software Engineer Intern**.
+- 🔭  **SWE Intern** @ **AB**.
   
 - 📫 How to reach me: **jaydencruz.cs@gmail.com**
   
