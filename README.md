@@ -1,9 +1,11 @@
 <h1 align="center">Hey 👋, I'm Jayden Cruz</h1>
-<h3 align="center">Computer Science & Data Science Scholar @ Belmont University.</h3>
+<h3 align="center">Computer Science & Data Science @ Belmont University.</h3>
 
-- 🖥 Check out my personal website: [jaydencruz.cs](https://jaydencruz2004.github.io)!
+- 🖥 Check out my personal website: [jaydencruz2004.github.io](https://jaydencruz2004.github.io)!
   
 - 🔭  Currently a **SWE Intern** @ **AB**.
+
+- - 🌱 I’m currently learning **Deep Learning**
   
 - 📫 How to reach me: **jaydencruz.cs@gmail.com**
   
