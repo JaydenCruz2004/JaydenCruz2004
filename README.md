@@ -5,7 +5,7 @@
   
 - 🔭  Currently a **SWE Intern** @ **AB**.
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Mobile App Dev** + **Deep Learning**
   
 - 📫 How to reach me: **jaydencruz.cs@gmail.com**
   
