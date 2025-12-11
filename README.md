@@ -49,6 +49,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://jaydencruz2004.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=refined-github&logoColor=white" />
-  </a>
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/refinedgithub.svg" height="30" width="40" />
+</a>
 </p>
