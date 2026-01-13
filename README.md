@@ -1,4 +1,4 @@
-<h1 align="center">🦞 Jayden Cruz</h1>
+<h1 align="center">🦙 Jayden Cruz</h1>
 <h3 align="center">Computer Science & Data Science @ Belmont University.</h3>
 
 - 🖥 Check out my personal website: [jaydencruz2004.github.io](https://jaydencruz2004.github.io)!
