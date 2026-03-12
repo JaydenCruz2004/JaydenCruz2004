@@ -3,7 +3,7 @@
 
 - 🖥 Check out my personal website: [jaydencruz2004.github.io](https://jaydencruz2004.github.io)!
   
-- 🔭  Currently a **BA Intern** @ **Nashville SC** | incoming **SWE** @ **AB**.
+- 🔭  Currently a **Data Engineer Intern** @ **Nashville SC** | incoming **SWE** @ **AB**.
 
 - 🌱 I’m currently learning **Mobile App Dev** + **Deep Learning**
   
