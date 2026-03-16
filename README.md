@@ -5,7 +5,7 @@
   
 - 🔭  Currently a **Data Engineer Intern** @ **Nashville SC** | incoming **SWE** @ **AB**.
 
-- 🌱 I’m currently learning **Mobile App Dev** + **Deep Learning**
+- 🌱 I’m currently learning **Operating Systems** + **Sports Analytics**
   
 - 📫 How to reach me: **jaydencruz.cs@gmail.com**
 
