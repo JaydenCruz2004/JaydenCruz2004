@@ -20,6 +20,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
 </p>
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaydencruz2004.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydencruz/)
